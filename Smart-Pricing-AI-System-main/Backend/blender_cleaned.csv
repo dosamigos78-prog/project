@@ -1,0 +1,41 @@
+Brand,Model,Type,Wattage,Jar_Material,Warranty_Years,Special_Features,Estimated_Cost_EGP,Competitor_Avg_Price,Demand_Level,Units_Sold,Price_EGP,Demand_Score,Feature_Count
+Moulinex,LM2421EG,Blender + 2 Grinders,450,Plastic,1,Genuine French,1217,1631,Medium,634,1650,2,1
+Moulinex,LM242B25,Blender + 2 Grinders,500,Plastic,1,Genuine French,1471,1877,High,2200,1850,3,1
+Moulinex,PerfectMix+ LM811D25,High Speed Blender,1200,Glass,1,Powelix Technology,5258,6680,High,3863,6800,3,1
+Moulinex,LM422125,Blendforce,600,Plastic,1,Air Cooling System,1596,2192,High,2779,2100,3,1
+Moulinex,LM2411EG,Blender + 1 Grinder,450,Plastic,1,Classic Design,1038,1447,Medium,1429,1450,2,1
+Braun,JB3060,IdentityCollection,800,Glass,2,TriAction Technology,3006,4311,High,2502,4200,3,1
+Braun,JB3150,PowerBlend 3,800,Plastic,2,SmoothCrush Blade,2682,3807,High,4454,3800,3,1
+Braun,MQ3000+,Hand Blender,700,Plastic,2,PowerBell Plus,1731,2236,Medium,1304,2200,2,1
+Braun,JB5160,IdentityCollection,1000,Glass,2,Intelligent Programs,4181,5600,High,4146,5500,3,1
+Fresh,Ghost,Blender + 2 Grinders,400,Plastic,2,Unbreakable Jar,886,1142,High,4731,1150,3,1
+Fresh,F-601,Blender,400,Plastic,2,Stainless Steel Blades,667,995,Medium,1225,950,2,1
+Fresh,Mixer 360,Stand Mixer/Blender,500,Plastic,2,Multi Speed,1116,1448,Medium,1460,1400,2,1
+Tornado,BL-500,Blender + 2 Grinders,500,Plastic,1,Safety Lock,1057,1412,High,4660,1350,3,1
+Tornado,TBL-600W,Digital Blender,600,Plastic,1,Digital Screen,1298,1877,Medium,1985,1800,2,1
+Tornado,MX-1500,Professional Blender,1500,Tritan,1,Crush Ice,3232,4598,Medium,1142,4500,2,1
+Black & Decker,BX205,Blender + Grinder,300,Plastic,2,Compact Design,1401,2037,Medium,1528,1950,2,1
+Black & Decker,BX600G,Blender + Grinder,600,Glass,2,Multi Speed,2556,3452,High,2502,3500,3,1
+Philips,HR2221/00,Series 5000,700,Plastic,2,ProBlend Crush,2220,2931,High,4814,2950,3,1
+Philips,HR2102/03,Daily Collection,400,Plastic,2,ProBlend 4,1375,1819,Medium,897,1850,2,1
+Philips,HR3573/90,Avance Collection,1000,Glass,2,ProBlend 6,4302,5916,High,2870,5900,3,1
+Kenwood,BLP10.C0WH,Blender + 2 Grinders,400,Plastic,1,Lightweight,1598,2115,High,4842,2100,3,1
+Kenwood,BLP41.A0WH,Blend-X Fresh,650,Plastic,1,Large Capacity,1999,2797,High,2392,2800,3,1
+Mienta,BL121,Blender + 2 Grinders,400,Plastic,2,Super Blades,912,1298,Medium,706,1250,2,1
+Mienta,BL-771,Blender,500,Plastic,2,Turbo Speed,1142,1558,Medium,1538,1550,2,1
+Unionaire,UN-450,Blender + 2 Grinders,450,Plastic,1,Strong Motor,783,1050,Medium,1391,1050,2,1
+Unionaire,UN-100,Classic Blender,400,Plastic,1,Economical,740,967,Medium,1984,950,2,1
+Home,HBL-200,Standard Blender,400,Plastic,1,Basic Use,612,841,Medium,1363,850,2,1
+Home,HBL-500,Power Blender,600,Plastic,1,Double Grinder,902,1243,Medium,1242,1200,2,1
+Panasonic,MX-EX1011,Blender,400,Plastic,1,Sabre Cutter,1974,2562,High,2563,2600,3,1
+Panasonic,MX-MG5421,Glass Blender,800,Glass,1,Ice Crushing,3453,5141,High,3020,4900,3,1
+Wahl,ProMix,Commercial Blender,2000,Tritan,1,Industrial Grade,5706,7755,Medium,595,7500,2,1
+Group Seb,Tefal BL4208,Blendforce,600,Plastic,1,Tefal Quality,1649,2286,High,3923,2300,3,1
+Beko,TBN81808BX,Jug Blender,800,Glass,1,Stainless Steel,2402,3333,Medium,984,3400,2,1
+Bosch,MMB6141B,VitaPower,1200,Tritan,2,Made in Europe,3815,4978,High,4278,4800,3,1
+Bosch,MMBM401W,VitaStyle Mixx2Go,350,Plastic,2,Smoothie Specialized,2549,3294,Medium,1248,3200,2,1
+Gorenje,B800RLBK,Retro Blender,800,Glass,1,Retro Design,3084,4073,Medium,1694,3950,2,1
+Arzum,AR1032,Shake'n Take,300,Plastic,1,Sport Bottle,1278,1809,High,2540,1750,3,1
+Fakir,Mix it Easy,Personal Blender,500,Plastic,1,One Touch,1384,1921,High,3059,1950,3,1
+Sonai,MARV-4500,Blender + 2 Grinders,450,Plastic,2,Value for Money,845,1106,High,4572,1100,3,1
+Sonai,MA-1200,Power Blender,1200,Plastic,2,High Power,1562,2075,Medium,1683,2100,2,1

@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Pricing - Data Input</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="data-input.css">
+    <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+<body class="data-input-page">
+    <!-- Navigation Menu Overlay -->
+    <div id="menuOverlay" class="menu-overlay" onclick="closeMenu()"></div>
+
+    <!-- Navigation Drawer -->
+    <div id="menuDrawer" class="menu-drawer">
+        <div class="menu-content">
+            <div class="menu-header">
+                <h2>Navigation</h2>
+                <button onclick="closeMenu()" class="close-btn">
+                    <i data-lucide="x"></i>
+                </button>
+            </div>
+            <nav class="menu-nav">
+                <a href="index.html" class="menu-item">
+                    <i data-lucide="home"></i>
+                    <span>Home</span>
+                </a>
+                <a href="login.html" class="menu-item">
+                    <i data-lucide="log-in"></i>
+                    <span>Login</span>
+                </a>
+                <a href="data-input.html" class="menu-item active">
+                    <i data-lucide="upload"></i>
+                    <span>Data Input</span>
+                </a>
+                <a href="payment.html" class="menu-item">
+                    <i data-lucide="credit-card"></i>
+                    <span>Payment</span>
+                </a>
+                <a href="chatbot.html" class="menu-item">
+                    <i data-lucide="message-circle"></i>
+                    <span>AI Assistant</span>
+                </a>
+            </nav>
+            <div class="menu-footer">
+                <p>AI Pricing Platform</p>
+                <p class="copyright">© 2026 All rights reserved</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Header -->
+    <header class="header header-transparent">
+        <div class="container">
+            <div class="header-content">
+                <div class="header-left">
+                    <button onclick="openMenu()" class="hamburger-btn">
+                        <i data-lucide="menu"></i>
+                    </button>
+                    <div class="logo">
+                        <i data-lucide="trending-up"></i>
+                        <div>
+                            <div class="logo-title">AI Pricing</div>
+                            <div class="logo-subtitle">Website</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <div class="upload-container">
+        <div class="upload-header">
+            <div class="section-label">DATA INPUT</div>
+            <h1>Start Your Analysis</h1>
+            <p>Upload your Excel file to begin real-time competitive analysis</p>
+        </div>
+
+        <div class="upload-circle-container">
+            <div class="upload-circle">
+                <form id="uploadForm" onsubmit="handleUpload(event)">
+                    <div class="upload-icon">
+                        <i data-lucide="upload"></i>
+                    </div>
+                    <label for="fileInput" class="upload-label">Upload Your Data Product Here</label>
+                    
+                    <div id="dropZone" class="drop-zone">
+                        <input type="file" id="fileInput" accept=".xlsx,.xls,.csv" style="display: none;">
+                        <div id="uploadPrompt">
+                            <i data-lucide="file-spreadsheet"></i>
+                            <p><strong>Click or drag to upload</strong></p>
+                            <p class="file-types">Excel files only (.xlsx, .xls, .csv)</p>
+                        </div>
+                        <div id="filePreview" style="display: none;">
+                            <i data-lucide="file-spreadsheet"></i>
+                            <span id="fileName"></span>
+                            <button type="button" onclick="removeFile()" class="remove-btn">
+                                <i data-lucide="x"></i>
+                            </button>
+                        </div>
+                    </div>
+
+                    <button type="submit" id="analyzeBtn" class="btn-analyze" disabled>Analyze</button>
+                </form>
+            </div>
+            
+            <!-- Decorative elements -->
+            <div class="floating-dot dot-1"></div>
+            <div class="floating-dot dot-2"></div>
+            <div class="floating-dot dot-3"></div>
+        </div>
+
+        <!-- Info Cards -->
+        <div class="info-grid">
+            <div class="info-card">
+                <div class="info-number">1</div>
+                <h3>Upload Excel</h3>
+                <p>Upload your product data in Excel format</p>
+            </div>
+            <div class="info-card">
+                <div class="info-number">2</div>
+                <h3>AI Analysis</h3>
+                <p>Our AI processes your data in real-time</p>
+            </div>
+            <div class="info-card">
+                <div class="info-number">3</div>
+                <h3>Get Insights</h3>
+                <p>Receive actionable competitive insights</p>
+            </div>
+        </div>
+    </div>
+
+    <script src="navigation.js"></script>
+    <script src="data-input.js"></script>
+    <script>
+        lucide.createIcons();
+    </script>
+</body>
+</html>

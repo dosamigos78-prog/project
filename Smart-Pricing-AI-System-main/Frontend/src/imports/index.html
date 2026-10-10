@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Pricing - Home</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+<body>
+    <!-- Navigation Menu Overlay -->
+    <div id="menuOverlay" class="menu-overlay" onclick="closeMenu()"></div>
+
+    <!-- Navigation Drawer -->
+    <div id="menuDrawer" class="menu-drawer">
+        <div class="menu-content">
+            <div class="menu-header">
+                <h2>Navigation</h2>
+                <button onclick="closeMenu()" class="close-btn">
+                    <i data-lucide="x"></i>
+                </button>
+            </div>
+            <nav class="menu-nav">
+                <a href="index.html" class="menu-item active">
+                    <i data-lucide="home"></i>
+                    <span>Home</span>
+                </a>
+                <a href="login.html" class="menu-item">
+                    <i data-lucide="log-in"></i>
+                    <span>Login</span>
+                </a>
+                <a href="data-input.html" class="menu-item">
+                    <i data-lucide="upload"></i>
+                    <span>Data Input</span>
+                </a>
+                <a href="payment.html" class="menu-item">
+                    <i data-lucide="credit-card"></i>
+                    <span>Payment</span>
+                </a>
+                <a href="chatbot.html" class="menu-item">
+                    <i data-lucide="message-circle"></i>
+                    <span>AI Assistant</span>
+                </a>
+            </nav>
+            <div class="menu-footer">
+                <p>AI Pricing Platform</p>
+                <p class="copyright">© 2026 All rights reserved</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <div class="header-content">
+                <div class="header-left">
+                    <button onclick="openMenu()" class="hamburger-btn">
+                        <i data-lucide="menu"></i>
+                    </button>
+                    <div class="logo">
+                        <i data-lucide="trending-up"></i>
+                        <div>
+                            <div class="logo-title">AI Pricing</div>
+                            <div class="logo-subtitle">Website</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="header-right">
+                    <a href="login.html" class="login-link">Login</a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero-section">
+        <div class="container-lg">
+            <div class="hero-image">
+                <img src="https://images.unsplash.com/photo-1771320515748-a3b5c65ba9f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080" alt="Crystal prism">
+            </div>
+            <h1 class="hero-title">
+                AI-DRIVEN<br>
+                PRECISION<br>
+                PRICING<br>
+                FOR THE EDGE
+            </h1>
+            <p class="hero-description">
+                Real-time competitive analysis designed to help businesses optimize profit margins
+                and stay ahead of rapidly evolving market trends with unparalleled precision.
+            </p>
+            <a href="data-input.html" class="btn-primary">Get Started</a>
+        </div>
+    </section>
+
+    <!-- Precision Analytics Section -->
+    <section class="analytics-section">
+        <div class="container-lg text-center">
+            <div class="section-label">PRECISION ANALYTICS</div>
+            <h2 class="section-title">Empower Your Strategy with Real-Time AI Insight</h2>
+            <div class="icon-large">
+                <i data-lucide="search"></i>
+            </div>
+            <h3 class="subsection-title">Competitor Tracking</h3>
+        </div>
+    </section>
+
+    <!-- Subscription Plans Section -->
+    <section class="plans-section">
+        <div class="container-lg">
+            <div class="text-center plans-header">
+                <div class="section-label">SUBSCRIPTION PLANS</div>
+                <h2 class="section-title text-white">Scale Your Strategic Edge</h2>
+                <p class="section-description">Accessible AI-driven competitive analysis for every market stage.</p>
+            </div>
+
+            <div class="plans-grid">
+                <!-- Starter Plan -->
+                <div class="plan-card">
+                    <h3 class="plan-name">Starter</h3>
+                    <div class="plan-price">
+                        <span class="price">$49</span>
+                        <div class="period">per user / per month</div>
+                    </div>
+                    <hr class="plan-divider">
+                    <ul class="plan-features">
+                        <li>Real-time market analysis</li>
+                        <li>5 Competitor tracking nodes</li>
+                        <li>Essential AI chatbot access</li>
+                        <li>Weekly performance reports</li>
+                    </ul>
+                    <a href="payment.html?plan=starter" class="btn-plan">Get Started</a>
+                </div>
+
+                <!-- Professional Plan -->
+                <div class="plan-card featured">
+                    <div class="badge">MOST POPULAR</div>
+                    <h3 class="plan-name">Professional</h3>
+                    <div class="plan-price">
+                        <span class="price">$129</span>
+                        <div class="period">per user / per month</div>
+                    </div>
+                    <hr class="plan-divider">
+                    <ul class="plan-features">
+                        <li>Advanced predictive modeling</li>
+                        <li>Unlimited competitor tracking</li>
+                        <li>Full AI interactions dashboard</li>
+                        <li>Daily strategic insights</li>
+                        <li>API Data Stream access</li>
+                    </ul>
+                    <a href="payment.html?plan=professional" class="btn-plan">Try Free Trial</a>
+                </div>
+
+                <!-- Enterprise Plan -->
+                <div class="plan-card">
+                    <h3 class="plan-name">Enterprise</h3>
+                    <div class="plan-price">
+                        <span class="price">CUSTOM</span>
+                        <div class="period">Tailored to your ecosystem</div>
+                    </div>
+                    <hr class="plan-divider">
+                    <ul class="plan-features">
+                        <li>Custom AI model calibration</li>
+                        <li>Dedicated data lake integration</li>
+                        <li>Enterprise SLA support</li>
+                        <li>Unlimited API throughput</li>
+                        <li>Quarterly strategic review</li>
+                    </ul>
+                    <a href="payment.html?plan=enterprise" class="btn-plan">Contact Sales</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- AI Clarity Section -->
+    <section class="clarity-section">
+        <div class="container-lg">
+            <div class="feature-image">
+                <img src="https://images.unsplash.com/photo-1662974770404-468fd9660389?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080" alt="Chat interface">
+            </div>
+            <div class="text-center">
+                <div class="section-label">AI CLARITY</div>
+                <h2 class="section-title">Interactive Strategic Consulting</h2>
+                <p class="feature-description">
+                    Consult your dedicated AI pricing assistant. Simulate thousands of market scenarios
+                    and query historical behavior through our intuitive chat interface to validate your
+                    commercial strategies instantly.
+                </p>
+                <a href="chatbot.html" class="btn-primary">Start Consulting</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Market Intelligence Section -->
+    <section class="intelligence-section">
+        <div class="container-lg">
+            <div class="feature-image">
+                <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080" alt="Analytics dashboard">
+            </div>
+            <div class="text-center">
+                <div class="section-label">MARKET INTELLIGENCE</div>
+                <h2 class="section-title">Real-Time Competitor Analysis</h2>
+                <p class="feature-description">
+                    Gain a decisive edge with AI-driven monitoring. Our platform tracks global market
+                    fluctuations down to the millisecond, delivering precision insights that protect
+                    your profit margins from sudden shifts.
+                </p>
+                <button class="btn-primary">Explore Analysis Tools</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Latest Industry Updates Section -->
+    <section class="updates-section">
+        <div class="container-lg text-center">
+            <div class="section-label">INTELLIGENCE STREAM</div>
+            <h2 class="section-title">Latest Industry Updates</h2>
+            <hr class="divider">
+            
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        
+    </footer>
+
+    <script src="navigation.js"></script>
+    <script>
+        lucide.createIcons();
+    </script>
+</body>
+</html>

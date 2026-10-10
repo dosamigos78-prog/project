@@ -1,0 +1,41 @@
+Brand,Model,Type,Capacity_HP,Technology,Cooling_Heating,Warranty_Years,Energy_Saving,Special_Features,Estimated_Cost_EGP,Competitor_Avg_Price,Demand_Level,Units_Sold,Price_EGP,Energy_Saving_Score,Demand_Score,Feature_Count
+Sharp,AH-AP12ZHE,Split,1.5,Digital,Cool Only,5,Medium,"Plasma Cluster, Digital",20127,24593,High,1010,25559,2,3,2
+Sharp,AY-XP18BHE,Split,2.25,Inverter,Heat & Cool,5,High,"Plasma Cluster, Inverter",42878,50715,High,865,50739,3,3,2
+Sharp,AY-XP24BHE,Split,3.0,Inverter,Heat & Cool,5,High,"Plasma Cluster, Inverter",46815,54221,Medium,482,56869,3,2,2
+Sharp,AH-AP24ZHE,Split,3.0,Digital,Cool Only,5,Medium,"Plasma Cluster, Digital",36208,46539,Medium,422,44709,2,2,2
+Sharp,AY-XP24YHER,Split,3.0,Inverter,Heat & Cool,5,High,"Plasma Cluster, Red Edition",46908,59792,Medium,198,61270,3,2,2
+LG,S4-C12RZACA,Split,1.5,Inverter,Cool Only,5,High,"Dual Inverter, Fast Cooling",17192,22820,High,1242,22455,3,3,2
+LG,S4-Q24K22ME,Split,3.0,Inverter,Cool Only,5,High,"Dual Inverter, S-Plus",33256,43172,Medium,117,44000,3,2,2
+LG,S4-W24K2RME,Split,3.0,Inverter,Heat & Cool,5,High,"Dual Inverter, Art Cool Black",44258,53007,High,1095,52901,3,3,2
+LG,S4-W18KL2MA,Split,2.25,Inverter,Heat & Cool,5,High,"Dual Inverter, S-Plus",33903,42045,High,606,41850,3,3,2
+LG,S4-Q12RZAAA,Split,1.5,Standard,Cool Only,5,Medium,"Hero New, Fast Cooling",16293,19224,Medium,223,19850,2,2,2
+Carrier,53KHCT12N-708,Split,1.5,Digital,Cool Only,5,Medium,"Optimax Pro, Ionizer",16282,22667,Medium,157,21650,2,2,2
+Carrier,53KHEFT12DN8,Split,1.5,Inverter,Cool Only,5,High,XCool Inverter,20921,25380,High,714,24700,3,3,1
+Carrier,53QHEFT18DN8,Split,2.25,Inverter,Heat & Cool,5,High,XCool Inverter,34538,43272,High,1237,41450,3,3,1
+Carrier,53KHCT24N-708,Split,3.0,Digital,Cool Only,5,Medium,Optimax Pro,30155,40644,Medium,196,39100,2,2,1
+Carrier,53KHEFT24DN8,Split,3.0,Inverter,Cool Only,5,High,XCool Inverter,38401,50479,Medium,213,49990,3,2,1
+Fresh,FUFW12C/IW-AG,Split,1.5,Standard,Cool Only,5,Medium,Turbo Cooling,15981,21676,Medium,226,20799,2,2,1
+Fresh,SIFW20CIPINV,Split,2.25,Inverter,Cool Only,5,High,"Inverter, Plasma",33128,40702,High,547,42449,3,3,2
+Fresh,Smart 1.5HP,Split,1.5,Digital,Cool Only,5,Medium,"Smart Display, Plasma",17253,20846,High,573,21500,2,3,2
+Fresh,Turbo 3HP,Split,3.0,Standard,Heat & Cool,5,Medium,"Turbo, Heat Pump",30141,36272,High,1044,38000,2,3,2
+Fresh,Inverter 3HP,Split,3.0,Inverter,Cool Only,5,High,Energy Saving Inverter,37398,47162,High,1442,48000,3,3,1
+Tornado,TY-VX24BEE,Split,3.0,Inverter,Heat & Cool,5,High,"Inverter, Digital Display",39934,48681,High,724,49229,3,3,2
+Tornado,TY-C24WEE,Split,3.0,Digital,Heat & Cool,5,Medium,"Super Jet, Digital",32368,41400,High,611,42369,2,3,2
+Tornado,TY-VX18BEE,Split,2.25,Inverter,Heat & Cool,5,High,"Inverter, Shield Plasma",34402,45600,Medium,439,44149,3,2,2
+Tornado,TY-C12WEE,Split,1.5,Standard,Cool Only,5,Medium,"Turbo, Digital",14553,18235,High,1346,18500,2,3,2
+Midea,MSC1T-12CR-N,Split,1.5,Standard,Cool Only,5,Medium,Mission Pro,17571,21601,High,753,22085,2,3,1
+Midea,M1SEFT-18HRDN,Split,2.25,Inverter,Heat & Cool,5,High,EcoMaster Inverter,35589,43138,High,920,42955,3,3,1
+Midea,MISEFT-24CRDN,Split,3.0,Inverter,Cool Only,5,High,Mission Inverter,39499,49458,Medium,196,51300,3,2,1
+Midea,M1SCT-12CRN,Split,1.5,Standard,Cool Only,5,Medium,Mission Pro Basic,16830,21635,High,708,21000,2,3,1
+Midea,Inverter 1.5HP,Split,1.5,Inverter,Heat & Cool,5,High,AI EcoMaster,22873,27062,High,568,28265,3,3,1
+Gree,Eco 1.5HP,Split,1.5,Standard,Cool Only,5,Medium,"Eco Friendly, Fast Cool",14716,20449,Medium,405,19500,2,2,2
+Gree,Inverter 2.25HP,Split,2.25,Inverter,Cool Only,5,High,"I-Feel, Plasma",31214,39548,High,1323,38500,3,3,2
+Gree,Sky 3HP,Split,3.0,Standard,Heat & Cool,5,Medium,Strong Airflow,32983,41704,High,951,43000,2,3,1
+Beko,BIHT2440,Split,3.0,Inverter,Heat & Cool,5,High,"Jet Cool, Smart Inverter",36917,46387,High,502,48800,3,3,2
+Beko,BIHT1241X,Split,1.5,Inverter,Heat & Cool,5,High,Smart Inverter,26110,31879,High,840,30904,3,3,1
+Haier,HSU-18KCROCC,Split,2.25,Standard,Cool Only,5,Medium,Turbo Cooling,26243,31641,High,539,31000,2,3,1
+Haier,HSU-12KHROCC,Split,1.5,Standard,Heat & Cool,5,Medium,"Smart Cool, Plasma",17031,20967,Medium,422,20498,2,2,2
+Unionaire,ARTIFY 10-CR,Split,1.5,Standard,Cool Only,5,Medium,Artify Design,17217,22658,Medium,184,22060,2,2,1
+Unionaire,MEGO012CY5,Split,1.5,Standard,Cool Only,5,Medium,"Megafy, White",16259,20488,Medium,147,21400,2,2,2
+Hyundai,ASBI-128CAW8A,Split,1.5,Standard,Cool Only,5,Medium,"Super Jet, Anti-Bacterial",17186,20702,High,1004,20999,2,3,2
+Premium,PRMO018HY5,Split,2.25,Standard,Heat & Cool,5,Medium,Economic Choice,23662,28655,High,1457,29800,2,3,1

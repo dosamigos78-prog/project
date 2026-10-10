@@ -1,0 +1,41 @@
+Brand,Model,Type,Capacity_KG,Technology,RPM,Warranty_Years,Energy_Saving,Programs,Estimated_Cost_EGP,Competitor_Avg_Price,Demand_Level,Units_Sold,Price_EGP,Energy_Saving_Score,Demand_Score
+LG,F2T2TYM1S,Front Load,8,Inverter,1400,5,High,10,15000,19488,High,184,19990,3,3
+LG,F4R5VYG2P,Front Load,9,Inverter,1400,5,High,12,16500,23438,Medium,250,21500,3,2
+LG,T1164NEHGB,Top Load,11,Smart Inverter,900,5,High,8,11000,15747,High,889,15049,3,3
+Samsung,WW80TA046AX,Front Load,8,Digital Inverter,1400,5,High,12,15000,19732,Low,829,19350,3,1
+Samsung,WW90T554DAN,Front Load,9,EcoBubble,1400,5,High,14,16500,19555,High,979,21000,3,3
+Samsung,WA13T5260BY,Top Load,13,Digital Inverter,700,5,Medium,8,12500,15365,Medium,82,16500,2,2
+Toshiba,AW-M801APEG,Top Load,8,Great Waves,800,5,Medium,8,9000,11723,High,97,12860,2,3
+Toshiba,AW-J900DUPEG,Top Load,9,Standard,900,5,Medium,8,8200,12019,Medium,552,11199,2,2
+Toshiba,TW-BK90GF4EG,Front Load,8,Steam + Inverter,1400,5,High,12,14500,19383,Medium,456,18999,3,2
+Toshiba,AW-DUK1300KUPEG,Top Load,13,Inverter,900,5,Medium,8,13000,18228,High,623,17500,2,3
+Fresh,FTM-13S,Top Load,13,Standard,800,5,Medium,8,10500,12838,Low,777,14200,2,1
+Fresh,FWM-7KG,Front Load,7,Standard,1000,5,Low,10,7800,11487,Medium,854,10500,1,2
+Fresh,TopTech 10,Top Load,10,Standard,800,5,Medium,8,9000,13331,Low,148,12500,2,1
+Zanussi,ZWF81463WH,Front Load,8,Standard,1200,5,High,10,9000,11060,Low,733,11735,3,1
+Zanussi,ZWF7240SS5,Front Load,7,Standard,1200,5,Medium,10,8300,10206,Medium,921,10900,2,2
+Whirlpool,FFWB8248,Front Load,8,6th Sense,1200,5,High,12,11000,13529,Low,775,14444,3,1
+Whirlpool,TWTL100,Top Load,10,Standard,800,5,Medium,8,10000,12971,High,596,13500,2,3
+Bosch,WAN2821,Front Load,8,EcoSilence,1200,5,High,14,15500,19959,High,788,19861,3,3
+Bosch,WAJ2017,Front Load,7,EcoSilence,1200,5,High,12,14000,17262,High,662,17500,3,3
+Sharp,ES-FP710CX,Front Load,7,Inverter,1200,5,Medium,12,9500,11978,High,992,12500,2,3
+Sharp,ES-TN13G,Top Load,13,Standard,700,5,Medium,8,11000,15336,High,511,15000,2,3
+Beko,WTV8736XS,Front Load,8,ProSmart Inverter,1200,5,High,15,11500,13918,High,692,15000,3,3
+Beko,WTV7512,Front Load,7,Inverter,1200,5,Medium,12,10500,13226,Low,818,13800,2,1
+Hoover,DXOC58AC3,Front Load,8,Inverter,1500,5,High,14,12000,15572,High,54,16000,3,3
+Hoover,H3W492DE,Front Load,9,Inverter,1400,5,High,14,13000,17049,High,267,17200,3,3
+LG,F0L2CRV2T2,Front Load,7,Inverter,1200,5,High,10,13500,18498,Medium,552,17500,3,2
+Samsung,WW70TA046AE,Front Load,7,Digital Inverter,1200,5,High,12,12500,15039,High,816,16000,3,3
+Toshiba,AW-M1000UP,Top Load,10,Great Waves,850,5,Medium,8,10000,13538,Low,447,13500,2,1
+Fresh,FWM-9KG,Front Load,9,Standard,1200,5,Medium,10,9200,12222,High,920,12000,2,3
+Zanussi,ZWF8240SX5,Front Load,8,Standard,1200,5,Medium,12,9800,11821,Low,844,13000,2,1
+Whirlpool,FWG81284,Front Load,8,6th Sense,1200,5,High,12,11200,15323,Medium,442,15000,3,2
+Bosch,WAJ24006,Front Load,7,EcoSilence,1200,5,High,12,13200,15693,High,256,16800,3,3
+Sharp,ES-T85CJ,Top Load,8,Standard,700,5,Medium,8,8800,10774,High,64,11800,2,3
+Beko,WTV9745,Front Load,9,Inverter,1400,5,High,14,13200,18526,Low,907,17000,3,1
+Hoover,H3W4102DE,Front Load,10,Inverter,1400,5,High,14,14500,20223,Medium,603,18500,3,2
+LG,T1388NEHTF,Top Load,13,Smart Inverter,900,5,High,8,13000,18049,Medium,941,17000,3,2
+Samsung,WA11T5260BY,Top Load,11,Digital Inverter,700,5,Medium,8,11800,15183,Medium,510,15800,2,2
+Toshiba,TW-BL100A4,Front Load,10,Steam,1400,5,High,14,16000,18850,High,740,20500,3,3
+Fresh,TopTech 12,Top Load,12,Standard,800,5,Medium,8,10200,14308,High,624,13800,2,3
+Zanussi,ZWF1042,Front Load,10,Standard,1200,5,Medium,12,11500,14820,High,913,15000,2,3
